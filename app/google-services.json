@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "854972603384",
+    "project_id": "rbchat-7a6af",
+    "storage_bucket": "rbchat-7a6af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854972603384:android:ecf7cd404fbc4b30a4940d",
+        "android_client_info": {
+          "package_name": "com.rbchat.free"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854972603384-9e34ugm0i63ihd163qd6oes5pdrj7a8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKaFQxGYjVVHj3FY-W6SQoLF1J4IUpSX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854972603384-9e34ugm0i63ihd163qd6oes5pdrj7a8v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
